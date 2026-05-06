@@ -27,7 +27,7 @@ library(tinytable)
 ```{r}
 # Data directory and add header
 
-cheston_plants <- read.csv('plant_data.csv')
+cheston_plants <- read.csv('../plant_data.csv')
 
 
 ggplot(cheston_plants, aes(x = plot, y = total_species)) + 
