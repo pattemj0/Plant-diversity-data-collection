@@ -1,0 +1,21 @@
+timestamp,plot,sample,total_species,plants
+2026-05-05 16:43:22,Plot 1,Sample 1,10,Carolina Horsenettle; Chickweed; Corn Speedwell; Dogfennel; Field Madder; Lyreleaf Sage; Ribwort Plantain; Tall Fescue; White clover; Yorkshire Fog
+2026-05-05 16:45:12,Plot 1,Sample 2,8,Chickweed; Common Dandelion; Lesser Hop Trefoil; Smooth Meadowgrass; Sweet Vernal Grass; Tall Fescue; Thyme-leaved Speedwell; White clover
+2026-05-05 16:48:14,Plot 1,Sample 3,14,Broomsedge; Common mugwort; Common ragweed; Common Vetch; Common Dandelion; Ironweed; Lesser Hop Trefoil; Orchard Grass; Slender Path Rush; Southwestern Bedstraw; Sweet Vernal Grass; Tall Fescue; White clover; Woodsorrel
+2026-05-05 16:50:02,Plot 1,Sample 4,11,Carolina Horsenettle; Corn Speedwell; Dogfennel; Field Madder; Narrow-leaved Blue-eyed Grass; Slender Path Rush; Smooth Meadowgrass; Sweet Vernal Grass; Tall Fescue; Thyme-leaved Speedwell; White clover
+2026-05-05 16:51:56,Plot 2,Sample 1,11,Broomsedge; Chickweed; Common cinquefoil; Common Dandelion; Field Madder; Goldenrod; Heller's Rosette Grass; Lesser Hop Trefoil; Sweet Vernal Grass; Tall Fescue; White clover
+2026-05-05 16:53:25,Plot 2,Sample 2,11,Brambles; Broomsedge; Common ragweed; Common Vetch; Common Dandelion; Heller's Rosette Grass; Lesser Hop Trefoil; Chickory; Ribwort Plantain; Rose; Tall Fescue
+2026-05-05 16:54:44,Plot 2,Sample 3,10,Broomsedge; Common cinquefoil; Heller's Rosette Grass; Mint; Orchard Grass; Ribwort Plantain; Sweet Vernal Grass; Tall Fescue; White clover; White Vervain
+2026-05-05 16:55:59,Plot 2,Sample 3,10,American Plantain; Broomsedge; Common cinquefoil; Heller's Rosette Grass; Ironweed; Mint; Ribwort Plantain; Sweet Vernal Grass; Spiderwort; White clover
+2026-05-05 16:58:57,Plot 3,Sample 1,13,Buttercup; Corn Speedwell; Common Dandelion; Eastern Woodland Sedge; Orchard Grass; Ribwort Plantain; Slender Path Rush; Moss; Sweet Vernal Grass; Tall Fescue; Violet; White clover; Woodsorrel
+2026-05-05 17:00:12,Plot 3,Sample 2,8,Corn Speedwell; Common Dandelion; Slender Path Rush; Smooth Meadowgrass; Moss; Tall Fescue; White clover; Yorkshire Fog
+2026-05-05 17:01:05,Plot 3,Sample 3,9,Broomsedge; Common mugwort; Common Dandelion; Eastern Woodland Sedge; Lesser Hop Trefoil; Slender Path Rush; Sweet Vernal Grass; Tall Fescue; White clover
+2026-05-05 17:02:41,Plot 3,Sample 4,10,Common mugwort; Common Dandelion; Palmer's Amaranth; Reflexed Sedge; Smooth Meadowgrass; Southwestern Bedstraw; Moss; Sweet Vernal Grass; White clover; Woodsorrel
+2026-05-05 17:04:17,Plot 4,Sample 1,11,Broomsedge; Carolina Horsenettle; Common ragweed; Common Dandelion; Heller's Rosette Grass; Leafy Elephant's Foot; Ribwort Plantain; Sweet Vernal Grass; Tall Fescue; White clover; Woodsorrel
+2026-05-05 17:05:15,Plot 4,Sample 2,7,Brambles; Broomsedge; Heller's Rosette Grass; Lesser Hop Trefoil; Ribwort Plantain; Tall Fescue; White clover
+2026-05-05 17:05:49,Plot 4,Sample 3,4,Brambles; Broomsedge; Heller's Rosette Grass; Sweet Vernal Grass
+2026-05-05 17:06:56,Plot 4,Sample 4,7,Broomsedge; Heller's Rosette Grass; Lesser Hop Trefoil; Ribwort Plantain; Slender Path Rush; Sweet Vernal Grass; Tall Fescue
+2026-05-05 20:05:59,Plot 5,Sample 1,7,Tall Fescue; Yorkshire Fog; Common Dandelion; Red Clover; White clover; Daisy Fleabane; Smooth Meadowgrass
+2026-05-05 20:06:38,Plot 5,Sample 2,6,Tall Fescue; White clover; Yorkshire Fog; Common Vetch; Daisy Fleabane; Corn Speedwell
+2026-05-05 20:12:02,Plot 6,Sample 1,5,Tall Fescue; Red Clover; Yorkshire Fog; White clover; Corn Speedwell
+2026-05-05 20:13:24,Plot 6,Sample 2,7,Yorkshire Fog; Common Dandelion; Tall Fescue; Orchard Grass; Red Clover; White clover; Carolina Horsenettle

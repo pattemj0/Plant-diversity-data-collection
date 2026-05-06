@@ -1,0 +1,104 @@
+---
+title: "Processed plant data"
+author: "Max Patterson"
+date: "`r Sys.Date()`"
+output:
+  flexdashboard::flex_dashboard:
+    storyboard: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+library(tidyr)
+library(ggplot2)
+library(dplyr)
+library(flexdashboard)
+library(ggpubr)
+library(readr)
+library(tinytable)
+```
+
+# Plot comparison
+
+## <font size = "9em">****</font>
+
+### <font size = "9em">**Plot comparison**</font>
+
+```{r}
+# Data directory and add header
+
+cheston_plants <- read.csv('plant_data.csv')
+
+
+ggplot(cheston_plants, aes(x = plot, y = total_species)) + 
+  geom_boxplot() + 
+  geom_point()+ 
+  labs(x = "Plot", y = "Total Species in sample", title = "Boxplots showing species richness per plot")
+```
+
+# Plot 1
+
+## <font size = "9em">****</font>
+
+### <font size = "9em">**Plot 1**</font>
+
+```{r}
+plot1 <- cheston_plants %>% filter(plot == 'Plot 1')
+
+tt(plot1)
+
+```
+
+# Plot 2
+
+## <font size = "9em">****</font>
+
+### <font size = "9em">**Plot 2**</font>
+
+```{r}
+plot2 <- cheston_plants %>% filter(plot == 'Plot 2')
+
+tt(plot2)
+
+```
+
+# Plot 3
+
+## <font size = "9em">****</font>
+
+### <font size = "9em">**Plot 3**</font>
+
+```{r}
+plot3 <- cheston_plants %>% filter(plot == 'Plot 3')
+
+tt(plot3)
+
+```
+
+# Plot 4
+
+## <font size = "9em">****</font>
+
+### <font size = "9em">**Plot 4**</font>
+
+```{r}
+plot4 <- cheston_plants %>% filter(plot == 'Plot 4')
+
+tt(plot4)
+
+```
+
+
+# Plot 5
+
+## <font size = "9em">****</font>
+
+### <font size = "9em">**Plot 5**</font>
+
+```{r}
+plot5 <- cheston_plants %>% filter(plot == 'Plot 5', na.rm = TRUE)
+
+tt(plot5, na.rm = TRUE)
+
+```
+
